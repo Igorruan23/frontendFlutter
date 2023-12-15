@@ -1,16 +1,25 @@
-# nutricaoapp
+#  'SUPER LANCHES' UI em Flutter para App de Compra de Comida/Fast Food
 
-A new Flutter project.
+Este projeto em Flutter é um front-end de um aplicativo de compra de comida ou fast food, focado na interface do usuário (UI). O aplicativo foi desenvolvido para demonstrar a estrutura da interface, não contendo funcionalidades completas.
 
-## Getting Started
+## Telas Principais
 
-This project is a starting point for a Flutter application.
+### Tela de Todos os Pedidos
 
-A few resources to get you started if this is your first Flutter project:
+A tela de todos os pedidos simula um catálogo de itens disponíveis para compra. Os usuários podem explorar essa tela para visualizar diferentes produtos ou itens de menu.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Tela de Detalhes do Pedido
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A tela de detalhes do pedido exibe informações específicas sobre um item selecionado. Isso inclui detalhes como calorias, vitaminas, peso ou outras informações relevantes do produto selecionado.
+
+## Como Utilizar
+
+1. **Pré-requisitos:** Certifique-se de ter o ambiente de desenvolvimento Flutter configurado.
+2. Faça o clone deste repositório.
+3. Navegue até o diretório do projeto e execute `flutter pub get` para obter as dependências.
+4. Utilize um emulador ou dispositivo físico e execute `flutter run` para visualizar a interface do aplicativo.
+
+## Contribuições
+
+Este projeto é um exemplo de UI e não possui funcionalidades completas.
+
